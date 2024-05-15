@@ -7,7 +7,7 @@ If a team is not specified, players can still be added to the depth chart, howev
 If a sport is not specified, the DepthChartManager will default to the NFL and validate against NFL Positions and max team member count.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/depthchartbuilder.git`
+1. Clone the repository: `git clone https://github.com/bzx2022/depthchartbuilder.git`
 2. Navigate to the project directory: `cd depthchartbuilder`
 3. Install the required packages: `dotnet restore`
 
